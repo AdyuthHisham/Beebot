@@ -1,3 +1,4 @@
 # Beebot
-For pazhampori an other thingymajiggys
-dei thande illathevane
+ToDo:
+1. Emoji Role
+2. Bday reminder
