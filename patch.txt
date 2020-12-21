@@ -1,0 +1,8 @@
+Hey guys, BeeBot here
+I'm still a BayBee so tbh don't expect much from me.
+Commands('//')
+1. version      --Current Version
+2. bruh         --BRUH
+3. nsfw         --Only for 18+ peeps but go ahead I'm a bot not a policeman
+4. pray         --Join the Church of Bee
+5. flip         --Toss A Coin
